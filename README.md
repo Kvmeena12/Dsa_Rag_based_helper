@@ -1,8 +1,7 @@
 
 <img width="1350" height="629" alt="image" src="https://github.com/user-attachments/assets/ac4ea307-fdf4-4b67-acba-7705b31bacb7" />
 
-# DSA RAG Based Helper 🧠  
-[Live](https://dsa-rag-based-ai.streamlit.app/)
+# DSA RAG Based Helper 🧠 [Live](https://dsa-rag-based-ai.streamlit.app/)
 
 A Retrieval-Augmented Generation (RAG) based assistant designed to help learners **understand Data Structures, Algorithms, and Programming concepts**, not just memorize solutions.
 
