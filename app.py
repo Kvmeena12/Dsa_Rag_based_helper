@@ -102,7 +102,7 @@ st.markdown("""
 @st.cache_resource
 def init_models():
     embeddings = GoogleGenerativeAIEmbeddings(
-        model="models/embedding-001"
+        model="models/embedding-001",
         google_api_key=os.getenv("GEMINI_API_KEY")
     )
     pc = Pinecone(api_key=os.getenv("PINECONE_API_KEY"))
